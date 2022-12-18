@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://twitter.com/nathaniel_asa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nathaniel_asa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/mwlite/in/nathaniel-nathaniel-51363a231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/mwlite/in/nathaniel-nathaniel-51363a231" height="30" width="40" /></a>
-<a href="https://fb.com/nathaniel.nathaniel.18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nathaniel.nathaniel.18" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100087234496459" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nathaniel.nathaniel.18" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
