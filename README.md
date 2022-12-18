@@ -5,7 +5,7 @@ NattyGold/readme.md
 
 
 - 👋 Hi, I'm Nathaniel
-- 🔭 I’m a fullstack web developer,
+- 🔭 I’m a fullstack web developer
 - 🌱 I’m currently learning React Js & Django
 - 👯 I’m looking to collaborate on exciting and challenging project...
 
