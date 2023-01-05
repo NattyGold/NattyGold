@@ -22,7 +22,7 @@
 
 - 📫 You can reach me **nathanielanathaniel1@gmail.com**
 
-- ⚡ Fun fact **I love reading coding🙂**
+- ⚡ Fun fact **I love coding🙂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
