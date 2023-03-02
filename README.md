@@ -4,9 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nattygold&label=Profile%20views&color=0e75b6&style=flat" alt="nattygold" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nattygold" alt="nattygold" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/nathaniel_asa" target="blank"><img src="https://img.shields.io/twitter/follow/nathaniel_asa?logo=twitter&style=for-the-badge" alt="nathaniel_asa" /></a> </p>
 
 - 🔭 I’m currently working on a **Quiz App**
 
@@ -23,6 +20,8 @@
 - 📫 You can reach me **nathanielanathaniel1@gmail.com**
 
 - ⚡ Fun fact **I love coding🙂**
+
+<p align="left"> <a href="https://twitter.com/nathaniel_asa" target="blank"><img src="https://img.shields.io/twitter/follow/nathaniel_asa?logo=twitter&style=for-the-badge" alt="nathaniel_asa" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
