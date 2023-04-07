@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nattygold](https://github.com/nattygold)
 
-- 💬 Ask me anything on **web design and development, software engineering and artificial intelligence**
+- 💬 Ask me anything on **web design and development**
 
 - 📫 You can reach me **nathanielanathaniel1@gmail.com**
 
