@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently working on a **Quiz App**
 
-- 🌱 I’m currently learning **ReactJs & Django**
+- 🌱 I’m currently learning **React.Js**
 
-- 👯 I’m looking to collaborate on **exciting and challenging project**
-
-- 🤝 I’m looking for help with **understanding railway and typescript**
+- 👯 I’m looking to collaborate on **exciting and interesting project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nattygold](https://github.com/nattygold)
 
@@ -19,7 +17,7 @@
 
 - 📫 You can reach me **nathanielanathaniel1@gmail.com**
 
-- ⚡ Fun fact **I love coding🙂**
+- ⚡ Fun fact **I playing football games🙂**
 
 
 
