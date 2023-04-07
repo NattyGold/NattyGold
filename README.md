@@ -17,7 +17,7 @@
 
 - 📫 You can reach me **nathanielanathaniel1@gmail.com**
 
-- ⚡ Fun fact **I playing football games🙂**
+- ⚡ Fun fact **I love playing football games🙂**
 
 
 
