@@ -53,3 +53,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nattygold&" alt="nattygold" /></p>
 
+## 📈 Stats
+<a href="#">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nattygold&show_icons=true&count_private=true&theme=github_dark&bg_color=00000000&border_radius=6px&border_color=30363d" width="50.5%" />
+</a>
+
+<a href="#" style="margin-bottom:15px">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nattygold&count_private=true&theme=github_dark&layout=compact&bg_color=00000000&border_radius=6px&border_color=30363d" width="42%" />
+</a>
+
