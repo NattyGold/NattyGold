@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nattygold&label=Profile%20views&color=0e75b6&style=flat" alt="nattygold" /> </p>
 
 
-- 🔭 I’m currently working on a **Quiz App**
+- 🔭 I’m currently working on a **FinTech App**
 
-- 🌱 I’m currently learning **React.Js**
+- 🌱 I’m currently learning **NodeJs**
 
 - 👯 I’m looking to collaborate on **exciting and interesting project**
 
