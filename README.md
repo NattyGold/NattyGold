@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on a **FinTech App**
 
-- 🌱 I’m currently learning **NodeJs**
-
 - 👯 I’m looking to collaborate on **exciting and interesting project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nattygold](https://github.com/nattygold)
