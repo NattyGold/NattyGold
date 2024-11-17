@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Nathaniel</h1>
+<h1 align="left">Hi 👋, I'm Nathaniel Nathaniel Asa</h1>
 
 <h3 align="left">A passionate FullStack Web Developer from Nigeria</h3>
 
