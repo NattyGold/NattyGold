@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm @nattygold, a Software Engineer interested in solving problems using codes...Looking forward to collaborations on software projects</h1>
+Hi 👋, I'm @nattygold, a Software Engineer interested in solving problems using codes...Looking forward to collaborations on software projects
 
 <h3 align="left">A passionate FullStack Web Developer from Nigeria</h3>
 
