@@ -1,24 +1,26 @@
-Hi 👋, I'm @nattygold, a Software Engineer interested in solving problems using codes...Looking forward to collaborations on software projects
-
-<h3 align="left">A passionate FullStack Web Developer from Nigeria</h3>
+<h1>Hi My name is Nathaniel Nathaniel Asa </h1>
+</hr>  
+<h2>Software Engineer</h2>
+</hr>
+<p>Hi, I am @nattygold, a dedicated Software Engineer with a strong passion for leveraging technology, especially coding, to tackle real-world challenges. My enthusiasm for problem-solving drives me to create innovative solutions that improve efficiency and enhance user experiences. With a focus on practical applications, I enjoy exploring new technologies and finding ways to integrate them into everyday life...
+Looking forward to collaborations on software projects</p>
+<ul>
+  <li>🌍 I'm based in Nigeria</li>
+  <li>🖥️ See my portfolio at <a href="https://nattygold.github.io">nattygold.github.io</a></li>
+  <li>✉️ You can contact me at <a href="mailto:nathanielanathaniel1@gmail.com">nathanielanathaniel1@gmail.com</a></li>
+  <li>🤝 I'm open to collaborating on Projects</li>
+</ul>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nattygold&label=Profile%20views&color=0e75b6&style=flat" alt="nattygold" /> </p>
 
 
-- 🔭 I’m currently working on a **FinTech App**
-
-- 👯 I’m looking to collaborate on **exciting and interesting project**
+- 🔭 I’m currently learning a ASP.net
 
 - 👨‍💻 All of my projects are available at [https://github.com/nattygold](https://github.com/nattygold)
 
 - 💬 Ask me anything on **web design and development**
 
-- 📫 You can reach me **nathanielanathaniel1@gmail.com**
-
-- ⚡ Fun fact **I love playing football games🙂**
-
-
-
+- 📫 You can reach me at **nathanielanathaniel1@gmail.com**
 
 <p align="left"> <a href="https://twitter.com/nathaniel_asa" target="blank"><img src="https://img.shields.io/twitter/follow/nathaniel_asa?logo=twitter&style=for-the-badge" alt="nathaniel_asa" /></a> </p>
 
