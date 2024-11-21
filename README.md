@@ -12,9 +12,7 @@ Looking forward to collaborations on software projects</p>
 </ul>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nattygold&label=Profile%20views&color=0e75b6&style=flat" alt="nattygold" /> </p>
-
-
-- 🔭 I’m currently learning a ASP.net
+- 🔭 I’m currently learning ASP.net & C#
 
 - 👨‍💻 All of my projects are available at [https://github.com/nattygold](https://github.com/nattygold)
 
