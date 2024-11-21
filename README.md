@@ -9,16 +9,13 @@ Looking forward to collaborations on software projects</p>
   <li>🖥️ See my portfolio at <a href="https://nattygold.github.io">nattygold.github.io</a></li>
   <li>✉️ You can contact me at <a href="mailto:nathanielanathaniel1@gmail.com">nathanielanathaniel1@gmail.com</a></li>
   <li>🤝 I'm open to collaborating on Projects</li>
+  <li>🔭 I’m currently learning ASP.net & C#
+  <li>👨‍💻 All of my projects are available at [https://github.com/nattygold](https://github.com/nattygold)</li>
+  <li>💬 Ask me anything on **web design and development**</li>
+  <li>📫 You can reach me at **nathanielanathaniel1@gmail.com**</li>
 </ul>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nattygold&label=Profile%20views&color=0e75b6&style=flat" alt="nattygold" /> </p>
-- 🔭 I’m currently learning ASP.net & C#
-
-- 👨‍💻 All of my projects are available at [https://github.com/nattygold](https://github.com/nattygold)
-
-- 💬 Ask me anything on **web design and development**
-
-- 📫 You can reach me at **nathanielanathaniel1@gmail.com**
 
 <p align="left"> <a href="https://twitter.com/nathaniel_asa" target="blank"><img src="https://img.shields.io/twitter/follow/nathaniel_asa?logo=twitter&style=for-the-badge" alt="nathaniel_asa" /></a> </p>
 
